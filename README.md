@@ -1,2 +1,2 @@
-# ipython-notebooks
-ipython notebooks
+# jupyter-notebooks
+machine learning notebooks
